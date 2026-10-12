@@ -1,0 +1,17 @@
+{
+  "id": "persona-craft",
+  "title": "Persona Craft",
+  "tagline": "Steve enters the Metaverse: summon your Persona, keep building blocks.",
+  "description": "Spawn in a Tokyo-style Metaverse inside Minecraft, awaken a Persona and use its skills in combat while placing and breaking blocks like always. Music and Persona content are read from your own copy of Persona 5 Royal.",
+  "license": "MIT",
+  "remixAllowed": true,
+  "mode": "solo",
+  "multiplayer": null,
+  "games": [
+    {"slug": "minecraft-java", "role": "primary", "loader": "fabric", "version": "TO_VERIFY (game_info)"},
+    {"slug": "persona-5-royal", "role": "companion", "together": false, "version": "TO_VERIFY (game_info)"}
+  ],
+  "firstMinute": "Spawn in metaverse_tokyo, receive starter Persona, press summon key, cast first skill, place blocks.",
+  "v1Scope": ["1 dimension", "1 starter Persona", "1 skill", "SP resource", "block placing enabled", "P5R music read from player's install"],
+  "status": "design-only, nothing built or tested"
+}

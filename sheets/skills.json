@@ -1,0 +1,4 @@
+{"columns":["id","displayName","element","spCost","damage","range","cooldownTicks","effect","persona","status"],
+ "rows":[
+  {"id":"eiha","displayName":"Eiha","element":"curse","spCost":4,"damage":8,"range":12,"cooldownTicks":40,"effect":"projectile that damages the first mob hit","persona":"starter_persona","status":"unverified"}
+ ]}

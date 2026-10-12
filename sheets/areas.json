@@ -1,0 +1,4 @@
+{"columns":["id","displayName","type","spawnPoint","blockPalette","placeBlocksAllowed","breakBlocksAllowed","music","status"],
+ "rows":[
+  {"id":"metaverse_tokyo","displayName":"Metaverse Tokyo","type":"custom_dimension","spawnPoint":"0,80,0","blockPalette":"vanilla Minecraft blocks only (nothing copied from P5R)","placeBlocksAllowed":true,"breakBlocksAllowed":true,"music":"bgm_main","status":"unverified"}
+ ]}

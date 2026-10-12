@@ -1,0 +1,4 @@
+{"columns":["id","sourceGame","sourcePath","format","playWhen","status"],
+ "rows":[
+  {"id":"bgm_main","sourceGame":"persona-5-royal","sourcePath":"{game:persona-5-royal}/TO_VERIFY (music archive)","format":"TO_VERIFY (likely ACB/AWB, needs decoder tool)","playWhen":"inside metaverse_tokyo","status":"unverified"}
+ ]}

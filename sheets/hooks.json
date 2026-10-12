@@ -1,0 +1,9 @@
+{"columns":["id","minecraftSystem","fabricApi","reads","writes","status"],
+ "rows":[
+  {"id":"keybind_summon","minecraftSystem":"key bindings","fabricApi":"KeyBindingHelper","reads":"personas.summonKey","writes":"summon state","status":"unverified"},
+  {"id":"cast_skill","minecraftSystem":"entities/projectiles","fabricApi":"ServerPlayNetworking","reads":"skills.*","writes":"damage, SP","status":"unverified"},
+  {"id":"sp_resource","minecraftSystem":"player data/HUD","fabricApi":"HudRenderCallback","reads":"personas.spMax","writes":"HUD bar","status":"unverified"},
+  {"id":"enter_dimension","minecraftSystem":"dimension/join event","fabricApi":"ServerPlayConnectionEvents","reads":"areas.metaverse_tokyo","writes":"teleport on first join","status":"unverified"},
+  {"id":"music_player","minecraftSystem":"sound engine","fabricApi":"client sound hook","reads":"audio.bgm_main","writes":"audio stream","status":"unverified"},
+  {"id":"read_game_folder","minecraftSystem":"startup","fabricApi":"env var PERSONA5_DIR set by Melty from {game:persona-5-royal}","reads":"P5R folder","writes":"none (read-only)","status":"unverified"}
+ ]}

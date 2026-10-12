@@ -1,0 +1,4 @@
+{"columns":["id","displayName","sourceGame","dataSource","modelSource","startingSkills","spMax","summonKey","status"],
+ "rows":[
+  {"id":"starter_persona","displayName":"Starter Persona (Arsene)","sourceGame":"persona-5-royal","dataSource":"{game:persona-5-royal} TO_VERIFY: file holding persona/skill tables","modelSource":"v1: none, uses Minecraft entity placeholder with P5R-themed name only. v2: TO_VERIFY model extraction at runtime from {game:persona-5-royal}","startingSkills":["eiha"],"spMax":30,"summonKey":"R","status":"unverified"}
+ ]}
